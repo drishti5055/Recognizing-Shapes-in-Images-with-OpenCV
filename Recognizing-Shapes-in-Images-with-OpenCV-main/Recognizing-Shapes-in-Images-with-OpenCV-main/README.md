@@ -1,1 +1,0 @@
-# Recognizing-Shapes-in-Images-with-OpenCV
